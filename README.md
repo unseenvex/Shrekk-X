@@ -1,5 +1,5 @@
 # 🧩 SHREKK X WEBHOOK SENDER
-
+![Example](https://i.imgur.com/uqGV4P9.png)
 A minimal tool for spamming discord webhooks.  
 Fast setup, clean code, no extra stuff.
 You can use the .EXE if you're too lazy to install requirements
