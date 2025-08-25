@@ -1,29 +1,14 @@
-## ======================================================================================
-## 				      			        🧩 SHREKK X SENDER
-## ======================================================================================
+# 🧩 SHREKK X WEBHOOK SENDER
 
-Minimal. Fast.  
-Python tool to nuke / delete discord webhooks..
+A minimal tool for spamming discord webhooks.  
+Fast setup, clean code, no extra fluff.
 
-***--------------------------------------------------------------------------------------
-                                🧬 FEATURES
---------------------------------------------------------------------------------------***
-              ┌────────────────────────────────────────────────────────┐
-              │ 🔫 Spam Discord Webhooks easily		 	 	   	             │
-              │ 🧾 Webhook deleter to erase any traces of you 	  	   │
-              │ 🕰️ Rate Limitation Bypasser Built IN	       		  	   │
-              │ 🕶️ Sleek UI for better usage. 		       		  		     │
-              │ 🧱 Easy to read, easy to extend            		    		 │
-              └────────────────────────────────────────────────────────┘
-***--------------------------------------------------------------------------------------
-                                🟢 SETUP
---------------------------------------------------------------------------------------***
-You're not an idiot, just open the .EXE
-Or use the requirements / in the source file to have the developer mode :)
-***--------------------------------------------------------------------------------------
-                                🟩 USAGE
---------------------------------------------------------------------------------------***
-Please use responsibly.
-This tool should be used ONLY for educational and ethical purposes
---------------------------------------------------------------------------------------
-Made and developped by unseenvex on discord.
+---
+![Cool Gif]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://images-ext-1.discordapp.net/external/Ta0ejU6RaPt-msmCs2bcO_JRUj_GnK3FexGNBxVetWI/https/media.tenor.com/M-gxaGNB8zUAAAAe/shrek-smile.png)
+
+## 🟢 Features
+
+- Spam requests to any discord webhook
+- Delete webhooks with link
+- sleek ui
+- Easy to read, easy to extend
